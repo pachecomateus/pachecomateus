@@ -4,7 +4,7 @@ Meu nome é Mateus Pacheco, sou desenvolvedor web.
 
 Esse é o meu site: https://pachecomateus.github.io
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachecomateus&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pachecomateus&layout=donut-vertical&hide=css)
 
 <!--
 **pachecomateus/pachecomateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
